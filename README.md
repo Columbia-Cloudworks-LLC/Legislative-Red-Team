@@ -15,7 +15,7 @@ Legislative Red Team uses AI and graph analysis to analyze U.S. Code and congres
 
 ## Tech Stack
 
-- **Next.js 14+** with App Router
+- **Next.js 16** (meets Next.js 14+ requirement) with App Router
 - **TypeScript** for type safety
 - **Tailwind CSS** for styling
 - **Supabase** for PostgreSQL database with vector embeddings
